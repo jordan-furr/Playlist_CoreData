@@ -15,6 +15,7 @@
 		3E1DF46823F322300002BC07 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E1DF46623F322300002BC07 /* LaunchScreen.storyboard */; };
 		C5C320E72410275B005A9DDC /* Playlist+Convenience.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C320E62410275B005A9DDC /* Playlist+Convenience.swift */; };
 		C5C320E92410289A005A9DDC /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C320E82410289A005A9DDC /* CoreDataStack.swift */; };
+		C5C320EB24102F11005A9DDC /* Song+Convenience.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C320EA24102F11005A9DDC /* Song+Convenience.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		3E1DF46923F322300002BC07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5C320E62410275B005A9DDC /* Playlist+Convenience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Playlist+Convenience.swift"; sourceTree = "<group>"; };
 		C5C320E82410289A005A9DDC /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
+		C5C320EA24102F11005A9DDC /* Song+Convenience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Song+Convenience.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			children = (
 				3E1DF46123F3222E0002BC07 /* PlaylistCoredata.xcdatamodeld */,
 				C5C320E62410275B005A9DDC /* Playlist+Convenience.swift */,
+				C5C320EA24102F11005A9DDC /* Song+Convenience.swift */,
 				C5C320E82410289A005A9DDC /* CoreDataStack.swift */,
 			);
 			path = Model;
@@ -194,6 +197,7 @@
 			files = (
 				C5C320E92410289A005A9DDC /* CoreDataStack.swift in Sources */,
 				3E1DF45923F3222E0002BC07 /* AppDelegate.swift in Sources */,
+				C5C320EB24102F11005A9DDC /* Song+Convenience.swift in Sources */,
 				3E1DF46323F3222E0002BC07 /* PlaylistCoredata.xcdatamodeld in Sources */,
 				3E1DF45B23F3222E0002BC07 /* SceneDelegate.swift in Sources */,
 				C5C320E72410275B005A9DDC /* Playlist+Convenience.swift in Sources */,
